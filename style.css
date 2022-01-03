@@ -1,8 +1,8 @@
 .box{
     background-color: whitesmoke;
     border: 2px solid black;
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     border-radius: 16px;
     margin-top: 10px;
     margin-left: 20px;
@@ -25,4 +25,11 @@
 .product-view{
     height: 250px;
     width: 250px;
+}
+.image{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    float: right;
+
 }
